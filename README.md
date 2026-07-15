@@ -8,7 +8,7 @@ Uma página simples, com o conteúdo "Bem-vindo à minha primeira página!" e o 
 
 ## Como usar
 
-Basta abrir o arquivo `.html` no navegador. Não precisa de instalação nem servidor.
+Basta abrir o arquivo `index.html` no navegador. Não precisa de instalação nem servidor.
 
 ## Tecnologias
 
